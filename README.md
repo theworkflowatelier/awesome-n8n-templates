@@ -1,6 +1,6 @@
 # Awesome n8n Templates
 
-> The largest open-source collection of n8n automation templates on GitHub. Browse 280+ free, ready-to-import workflow templates covering Gmail, Telegram, OpenAI, WhatsApp, Slack, Discord, WordPress, Google Sheets, and dozens more platforms. Continuously updated as of March 2026.
+> A curated collection of 280+ n8n workflow template files for Gmail, Telegram, OpenAI, WhatsApp, Slack, Discord, WordPress, Google Sheets, and dozens of other platforms. Review, configure, and test each workflow before use. Continuously updated as of August 2026.
 
 <p align="center">
   <a href="https://trendshift.io/repositories/14621" target="_blank">
@@ -20,14 +20,18 @@
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-    <img src="https://img.shields.io/badge/Try_n8n_Free-Start_Automating-orange?style=for-the-badge" alt="Try n8n Free" />
+    <img src="https://img.shields.io/badge/n8n_Cloud-Start_Trial-orange?style=for-the-badge" alt="Start an n8n Cloud trial" />
   </a>
+  <br />
+  <small>* Referral link — this project receives a commission on eligible purchases.</small>
 </p>
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
     <img src="/img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
   </a>
+  <br />
+  <small>* Referral link — this project receives a commission on eligible purchases.</small>
 </p>
 
 ---
@@ -67,7 +71,9 @@
 
 ## Quick Start: How to Use These Templates
 
-1. **[Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)** (free & open-source)
+1. **[Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)** (n8n Cloud trial available)
+   <br />
+   <small>* Referral link — this project receives a commission on eligible purchases.</small>
 2. Download any `.json` template file from this repository
 3. In n8n, go to **Workflows → Import from File** and select the JSON
 4. Configure your credentials for each connected service
@@ -77,13 +83,15 @@
 
 ## Why n8n?
 
-[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) is an open-source workflow automation platform that lets you connect anything to everything. Unlike closed-source alternatives, n8n gives you full control over your data and infrastructure. Key advantages include:
+[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) is a fair-code, source-available workflow automation platform that lets you connect services and systems. It can be self-hosted, giving you control over your data and infrastructure. Key advantages include:
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
-- **Open-source and self-hostable** -- run it on your own server with no vendor lock-in
+- **Fair-code, source-available, and self-hostable** -- run it on your own server with no vendor lock-in
 - **400+ built-in integrations** -- connect to virtually any service or API
 - **Visual workflow editor** -- build automations by dragging and dropping nodes, no coding required
 - **AI-native capabilities** -- built-in support for OpenAI, Claude, Gemini, LangChain, and vector databases
-- **Free to start** -- generous free tier on n8n Cloud, or self-host at no cost
+- **Deployment options** -- use the n8n Cloud trial or self-host Community Edition under n8n's license
 
 Whether you are automating email workflows, building AI chatbots, processing documents, or orchestrating DevOps pipelines, n8n provides the foundation these templates run on.
 
@@ -131,7 +139,9 @@ This collection includes 9 email automation templates for n8n covering Gmail, Ou
 | Website-Grounded Cold Email Writer | Fetches each lead's real website, extracts the page text, and writes a personalized cold email grounded only in that content. Flags thin or broken sites for human review instead of inventing facts. | Sales | [Link to Template](Gmail_and_Email_Automation/Website-Grounded%20Cold%20Email%20Writer.json) |
 
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How can I automate Telegram bots with n8n?
 
@@ -139,6 +149,7 @@ Explore 20 Telegram automation templates for n8n, including AI chatbots with Lan
 
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
+| RSS Keyword Alert to Telegram | Polls RSS feeds and sends a Telegram alert only when an entry matches a keyword you choose, with duplicate-entry protection. | Ops | [Link to Template](Telegram/RSS%20Keyword%20Alert%20to%20Telegram.json) |
 | Agentic Telegram AI bot with LangChain nodes and new tools | An advanced Telegram bot leveraging LangChain and OpenAI for conversational AI. Supports memory, dynamic tool use, and handles incoming events for rich, context-aware chat interactions. | Support | [Link to Template](Telegram/Agentic%20Telegram%20AI%20bot%20with%20with%20LangChain%20nodes%20and%20new%20tools.json) |
 | AI-Powered Children's Arabic Storytelling on Telegram | A Telegram bot that uses OpenAI to generate and narrate children's stories in Arabic, making storytelling interactive and educational for young users. | Support | [Link to Template](Telegram/AI-Powered%20Children_s%20Arabic%20Storytelling%20on%20Telegram.json) |
 | AI-Powered Children's English Storytelling on Telegram with OpenAI | Creates and tells children's stories in English using OpenAI to engage young audiences in an interactive way. | Support | [Link to Template](Telegram/AI-Powered%20Children_s%20English%20Storytelling%20on%20Telegram%20with%20OpenAI.json) |
@@ -162,14 +173,17 @@ Explore 20 Telegram automation templates for n8n, including AI chatbots with Lan
 | Bitcoin price alert to Telegram with CoinPaprika | Polls the keyless CoinPaprika API on a schedule and sends a Telegram alert when Bitcoin moves 5% or more in 24h. No API key or signup required; swap the coin id to track any asset. | Finance | [Link to Template](Telegram/Bitcoin%20price%20alert%20to%20Telegram%20with%20CoinPaprika.json) |
 | Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing | External workflow enhancing an AI chatbot with long-term memory and dynamic tool routing capabilities. | Support | [Link to Template](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What are the best n8n templates for Google Drive and Google Sheets?
 
-Browse 13 Google Drive and Google Sheets automation templates for n8n. Includes RAG chatbots for company documents, OpenAI model fine-tuning pipelines, automated background removal, lead qualification with GPT-4, applicant screening for HR, and document summarization workflows. Perfect for operations, sales, marketing, and engineering teams.
+Browse 17 Google Drive and Google Sheets automation templates for n8n. Includes RAG chatbots for company documents, OpenAI model fine-tuning pipelines, automated background removal, lead qualification and routing, applicant screening for HR, and document summarization workflows. Perfect for operations, sales, marketing, and engineering teams.
 
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
+| B2B Demo Lead Rescue Desk - Enrich, Score, Route, and Escalate | Receives website leads by webhook, validates contact data, enriches page context, scores and routes each lead, logs the audit trail in Google Sheets, and sends tiered Gmail alerts with an executive SLA escalation path. | Sales/Ops | [Link to Template](Google_Drive_and_Google_Sheets/B2B%20Demo%20Lead%20Rescue%20Desk%20-%20Enrich%20Score%20Route%20and%20Escalate.json) |
 | Website leads to Google Sheets with Telegram alert and auto-reply (Italian) | Captures website form leads via webhook, appends them to Google Sheets, alerts the owner on Telegram and sends a courtesy reply to the lead. Docs in Italian. | Sales | [Link to Template](Google_Drive_and_Google_Sheets/Website%20leads%20to%20Google%20Sheets%20with%20Telegram%20alert%20and%20auto-reply%20%28Italian%29.json) |
 | Automatic payment reminders from Google Sheets (Italian) | Checks an invoices sheet every weekday morning and emails polite payment reminders for invoices due within 3 days or overdue. Docs in Italian. | Finance | [Link to Template](Google_Drive_and_Google_Sheets/Automatic%20payment%20reminders%20from%20Google%20Sheets%20%28Italian%29.json) |
 | Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration | Automates the fine-tuning of OpenAI models by integrating with Google Drive for data input and output, streamlining custom AI model training. | Engineering | [Link to Template](Google_Drive_and_Google_Sheets/Automated%20End-to-End%20Fine-Tuning%20of%20OpenAI%20Models%20with%20Google%20Drive%20Integration.json) |
@@ -187,7 +201,9 @@ Browse 13 Google Drive and Google Sheets automation templates for n8n. Includes 
 | Summarize Google Sheets form feedback via OpenAI's GPT-4 | Summarizes feedback collected through Google Forms and stored in Google Sheets using OpenAI's GPT-4, providing quick insights from survey responses. | Marketing | [Link to Template](Google_Drive_and_Google_Sheets/Summarize%20Google%20Sheets%20form%20feedback%20via%20OpenAI_s%20GPT-4.json) |
 | Airtable to Google Sheets Auto-Sync | Automates bidirectional sync between Airtable and Google Sheets using n8n. Searches Airtable for recently updated records and upserts them into Google Sheets. | Ops | [Link to Template](Google_Drive_and_Google_Sheets/Airtable%20to%20Google%20Sheets%20Auto-Sync.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How do I automate WordPress with n8n?
 
@@ -202,7 +218,9 @@ This section features 6 WordPress automation templates for n8n. Automate blog po
 | WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI | This workflow integrates an AI chatbot into WordPress using Supabase and OpenAI to enhance user experience by providing intelligent interactions. | Customer Support/Marketing | [Link to Template](WordPress/WordPress%20-%20AI%20Chatbot%20to%20enhance%20user%20experience%20-%20with%20Supabase%20and%20OpenAI.json) |
 | Write a WordPress post with AI (starting from a few keywords) | This workflow uses AI to write WordPress posts based on a few keywords, simplifying the content creation process. | Marketing/Content | [Link to Template](WordPress/Write%20a%20WordPress%20post%20with%20AI%20(starting%20from%20a%20few%20keywords).json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What n8n templates exist for PDF and document processing?
 
@@ -224,19 +242,24 @@ Find 11 PDF and document processing templates for n8n. These workflows handle AI
 | Extract data from PDFs with human-in-the-loop validation and auto-training using Cradl AI | Extracts structured data from invoices and similar documents using Cradl AI. Flags low-confidence predictions for human review before they enter your system, automatically retrains the model on approved corrections, and applies built-in LLM guardrails to detect and reject hallucinations. | Finance/Logistics/Operations| [Link to Template](PDF_and_Document_Processing/Invoice%20data%20extraction%20with%20human-in-the-loop%20validation%20and%20auto-training%20using%20Cradl%20AI.json) |
 | AegisVault Enterprise Security Questionnaire Engine | Automates SOC 2, ISO 27001, and GDPR vendor security assessments using Google Gemini AI and self-hosted n8n. Ingests multi-format questionnaires, checks claims against internal docs with confidence gating, and routes to HITL review with dual free/enterprise deployment tiers. | Security/Compliance/Ops | [Link to Template](https://github.com/theworkflowatelier/AegisVault-Enterprise-Security-Questionnaire-Engine) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How can I automate Discord with n8n?
 
-This section contains 3 Discord automation templates for n8n. Build an AI-powered Discord bot that routes messages to the right department, automate daily comic translations and posts, or share YouTube videos with AI-generated summaries directly to your Discord server.
+This section contains 4 Discord automation templates for n8n. Build an AI-powered Discord bot that routes messages to the right department, automate daily comic translations and posts, share YouTube videos with AI-generated summaries, or post newly live tennis matches to a Discord channel on a schedule.
 
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
 | Discord AI-powered bot | This workflow creates an AI-powered Discord bot that categorizes user messages (success story, urgent issue, ticket) and routes them to the appropriate department (customer success, IT, customer support). | Customer Support | [Link to Template](Discord/Discord%20AI-powered%20bot.json) |
 | Send daily translated Calvin and Hobbes Comics to Discord | This workflow automates the daily retrieval of Calvin and Hobbes comics, translates the dialogues into English and Korean (or other languages), and posts them to Discord. | Marketing/Content | [Link to Template](Discord/Send%20daily%20translated%20Calvin%20and%20Hobbes%20Comics%20to%20Discord.json) |
 | Share YouTube Videos with AI Summaries on Discord | This workflow automatically shares new YouTube videos on Discord along with AI-generated summaries of their content, leveraging caption data. | Marketing | [Link to Template](Discord/Share%20YouTube%20Videos%20with%20AI%20Summaries%20on%20Discord.json) |
+| Post New Live Tennis Matches to Discord on a Schedule | Every 5 minutes, fetches the currently live tennis matches from the Live Tennis API, keeps only the ones newly in progress (deduplicated across executions), and posts a one-line alert (players and match status) to a Discord channel via a webhook. Free API tier, no card. | Data / Notifications | [Link to Template](Discord/Post%20New%20Live%20Tennis%20Matches%20to%20Discord%20on%20a%20Schedule.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What are the best n8n database and storage automation templates?
 
@@ -250,18 +273,26 @@ Find 5 database and storage automation templates for n8n. Chat with PostgreSQL u
 | Supabase Insertion & Upsertion & Retrieval | This workflow demonstrates how to perform insertion, upsertion, and retrieval operations with Supabase, specifically for handling vector embeddings and associated metadata. | Engineering | [Link to Template](Database_and_Storage/Supabase%20Insertion%20&%20Upsertion%20&%20Retrieval.json) |
 | Talk to your SQLite database with a LangChain AI Agent | This workflow allows users to interact with a SQLite database using a LangChain AI agent, enabling natural language queries and data retrieval from the database. | Data Analytics | [Link to Template](Database_and_Storage/Talk%20to%20your%20SQLite%20database%20with%20a%20LangChain%20AI%20Agent.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What n8n templates are available for DevOps and server automation?
 
-This section includes 2 DevOps and server automation templates for n8n. Trigger Linux system updates via authenticated webhooks over SSH, or control Docker Compose services remotely through HTTP POST requests. Both templates use SSH for secure server management.
+This section includes 6 DevOps and reliability templates for n8n. Audit a public page and build an implementation acceptance pack, trigger Linux system updates via authenticated webhooks over SSH, control Docker Compose services remotely, watch disk usage across mountpoints, diagnose failed n8n execution JSON without connecting to a live instance, or get a Telegram alert only when a site's up/down state changes.
 
-| Title | Description | Link |
-|-------|-------------|------|
+| Title | Description | Department | Link |
+|-------|-------------|------------|------|
+| Audit a Public Page and Build an Automation Acceptance Pack | Validate one public URL, collect bounded integration-readiness evidence, generate launch gates and acceptance tests, and route the result for implementation or review. | Engineering | [Link to Template](devops/Audit%20a%20Public%20Page%20and%20Build%20an%20Automation%20Acceptance%20Pack.json) |
 | Linux System Update via Webhook | Trigger update & upgrade of your Debian-based server via an authenticated POST request and SSH. | SSH Tools | [Link to Template](devops/linux-update-via-webhook.json)
 | Docker Compose Controller via Webhook | Start or stop Docker Compose services on your server via authenticated HTTP POST request with n8n + SSH. | SSH Tools | [Link to Template](devops/docker-compose-controller.json) |
+| Disk Space Watchdog with Tiered Thresholds | Check disk usage over SSH on a schedule, warn at 80% and 90%, and alert only when a mountpoint changes level - no repeated alerts for the same full disk. Telegram with e-mail fallback. | SSH Tools | [Link to Template](devops/disk-space-watchdog.json) |
+| n8n Failed Execution Doctor | Diagnose exported failed n8n execution data locally, identify the failing node, classify common root causes such as 401/403, 429, timeouts, network, invalid input, and expression errors, and return a focused next diagnostic step. No external API key or LLM required. | Engineering | [Link to Template](devops/n8n-failed-execution-doctor.json) |
+| Uptime Ping Alert | Pings a URL every 5 minutes and notifies Telegram only when the up/down state actually changes (no repeated alerts while it stays down). No external API key beyond a Telegram bot token. | SSH Tools | [Link to Template](devops/uptime-ping-alert.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How do I automate Airtable with n8n?
 
@@ -275,7 +306,9 @@ Browse 5 Airtable automation templates for n8n. Automate project management and 
 | Handling Job Application Submissions with AI and n8n Forms | This workflow automates the handling of job application submissions by extracting information from resumes (PDFs) using AI, parsing it into a structured format, and potentially storing it in Airtable. | HR | [Link to Template](Airtable/Handling%20Job%20Application%20Submissions%20with%20AI%20and%20n8n%20Forms.json) |
 | vAssistant for Hubspot Chat using OpenAi and Airtable | This workflow integrates an OpenAI assistant with HubSpot Chat and Airtable to provide automated responses and manage customer interactions. It fetches chat messages, processes them with AI, and can store relevant information in Airtable. | Sales | [Link to Template](Airtable/vAssistant%20for%20Hubspot%20Chat%20using%20OpenAi%20and%20Airtable.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What are the best n8n templates for Notion?
 
@@ -294,7 +327,9 @@ Discover 10 Notion automation templates for n8n. Store positive feedback from Ty
 | Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr | Transforms emails into AI-enhanced tasks in Notion, supporting multiple users. It integrates with Gmail for email triggers, Airtable for routing, and Softr for a user interface. | Ops | [Link to Template](Notion/Turn%20Emails%20into%20AI-Enhanced%20Tasks%20in%20Notion%20(Multi-User%20Support)%20with%20Gmail,%20Airtable%20and%20Softr.json) |
 | Upsert huge documents in a vector store with Supabase and Notion | Manages large documents by splitting them into chunks, generating embeddings, and upserting them into a Supabase vector store, with Notion serving as the document source. | Engineering | [Link to Template](Notion/Upsert%20huge%20documents%20in%20a%20vector%20store%20with%20Supabase%20and%20Notion.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How can I automate Slack with n8n?
 
@@ -312,7 +347,9 @@ Explore 9 Slack automation templates for n8n. Monitor RSS feeds with AI-powered 
 | Slack slash commands AI Chat Bot | Implements an AI chatbot accessible via Slack slash commands, processing user commands, interacting with an AI model, and responding within Slack. | IT | [Link to Template](Slack/Slack%20slash%20commands%20AI%20Chat%20Bot.json) |
 | Venafi Cloud Slack Cert Bot | Provides a Slack bot that interacts with Venafi Cloud for certificate management, allowing users to check certificate status, receive alerts, or request certificate actions via Slack. | Security | [Link to Template](Slack/Venafi%20Cloud%20Slack%20Cert%20Bot.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What n8n templates are available for OpenAI, LLMs, and AI agents?
 
@@ -346,22 +383,31 @@ This is the largest category with 17 AI and LLM templates for n8n. Templates inc
 | GCF Token Optimization for LLM Tool Responses | Fetches GitHub contributors, batches into an array, encodes to GCF (Graph Compact Format) for 53-71% fewer tokens, then decodes back to JSON losslessly. Uses the n8n-nodes-gcf community node. | AI/DevOps/Optimization | [Link to Template](OpenAI_and_LLMs/GCF%20Token%20Optimization%20for%20LLM%20Tool%20Responses.json) |
 | n8n + Local LLM (Ollama) Basic Setup | Connect n8n with local LLMs (Llama 3, Mistral, Phi-3) for 100% free AI automation. No API keys required. | AI/Automation | [Link to Template](./OpenAI_and_LLMs/Ollama_Basic_Workflow.json) |
 | DaoXE Multi-Model Chat with Automatic Fallback | Calls a primary model and, if it errors, automatically retries the same prompt on a fallback model — all through one OpenAI-compatible API key (DaoXE gateway). Pure HTTP nodes, so it runs on any n8n version. | AI/Development | [Link to Template](OpenAI_and_LLMs/DaoXE%20Multi-Model%20Chat%20with%20Automatic%20Fallback.json) |
+| YouTube Transcript to Executive Summary (Free) | Fetches a YouTube video transcript and generates a clean 3-5 paragraph executive summary using OpenAI GPT-4o-mini. Webhook-triggered, returns JSON with summary. | Content Creation/AI/Productivity | [Link to Template](OpenAI_and_LLMs/YouTube%20Transcript%20to%20Executive%20Summary%20(Free).json) |
+| AI Stock Image Metadata Generator | Generates title, description, and 20-40 keywords for stock photos using OpenAI Vision. Webhook-triggered, returns CSV-ready metadata. | Content Creation/AI/Photography | [Link to Template](OpenAI_and_LLMs/AI%20Stock%20Image%20Metadata%20Generator.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How do I build WhatsApp chatbots with n8n?
 
-This section includes 5 WhatsApp and cross-channel messaging automation templates for n8n. Automate sales meeting preparation with AI and Apify, build WhatsApp chatbots, or use one workflow to receive and send messages across WhatsApp, Instagram DM, and Facebook Messenger. Ideal for customer service, sales, and business communication workflows.
+This section includes 7 WhatsApp and cross-channel messaging automation templates for n8n. Automate sales meeting preparation with AI and Apify, build WhatsApp chatbots, capture leads to Google Sheets with Hebrew (RTL) auto-replies, send escalating invoice reminders, or use one workflow to receive and send messages across WhatsApp, Instagram DM, and Facebook Messenger. Ideal for customer service, sales, and business communication workflows.
 
 | Title | Description | Department | Link |
 |---|---|---|---|
 | Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp | This workflow automates sales meeting preparation using AI and Apify, sending relevant information to WhatsApp. | Sales/AI/Automation | [Link to Template](./WhatsApp/Automate%20Sales%20Meeting%20Prep%20with%20AI%20&%20APIFY%20Sent%20To%20WhatsApp.json) |
 | Building Your First WhatsApp Chatbot | This workflow guides you through building your first WhatsApp chatbot. | Customer Service/Development | [Link to Template](./WhatsApp/Building%20Your%20First%20WhatsApp%20Chatbot.json) |
 | Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI | This workflow builds a complete business WhatsApp AI-powered RAG chatbot using OpenAI. | Customer Service/AI/Development | [Link to Template](./WhatsApp/Complete%20business%20WhatsApp%20AI-Powered%20RAG%20Chatbot%20using%20OpenAI.json) |
+| Capture WhatsApp Leads to Google Sheets with Instant Hebrew Auto-Reply | Turns each incoming WhatsApp message (WAHA or official Cloud API payloads) into a structured lead row in Google Sheets and instantly sends the sender a Hebrew confirmation reply. Filters out groups and own messages, normalizes phone numbers to E.164. | Sales/Customer Service | [Link to Template](./WhatsApp/Capture%20WhatsApp%20Leads%20to%20Google%20Sheets%20with%20Instant%20Hebrew%20Auto-Reply.json) |
+| Send Escalating WhatsApp Invoice Reminders from Google Sheets (Hebrew) | Reads open invoices from Google Sheets every morning and sends a tiered Hebrew WhatsApp reminder when an invoice is exactly 7, 14 or 30 days overdue, then logs the sent tier and date back to the sheet so no customer is reminded twice. | Finance/Operations | [Link to Template](./WhatsApp/Send%20Escalating%20WhatsApp%20Invoice%20Reminders%20from%20Google%20Sheets%20(Hebrew).json) |
 | Receive and Send Messages Across WhatsApp, Instagram and Facebook Messenger with Fiwano | Demonstrates a minimal receive → custom logic → send pattern across three official Meta APIs. Fiwano unifies the channels into one Trigger/Action node set and normalized payload; replace the middle with any routing, CRM, helpdesk, or AI logic. | Customer Service/Development | [Link to Template](./WhatsApp/Receive%20and%20Send%20Messages%20Across%20WhatsApp%2C%20Instagram%20and%20Facebook%20Messenger%20with%20Fiwano.json) |
+| LeadBot 24h - AI WhatsApp Lead Qualification Bot | AI-powered n8n workflow that captures WhatsApp leads, scores intent with AI, and routes hot prospects to sales — 24/7, no paid APIs. Self-hosted via n8n + free LLMs. | Sales/Customer Service | [Link to Template](./WhatsApp/LeadBot%2024h%20-%20AI%20WhatsApp%20Lead%20Qualification.json) |
 | Respond to WhatsApp Messages with AI Like a Pro! | This workflow enables professional AI-powered responses to WhatsApp messages. | Customer Service/AI/Communication | [Link to Template](./WhatsApp/Respond%20to%20WhatsApp%20Messages%20with%20AI%20Like%20a%20Pro!.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What are the best n8n templates for social media automation?
 
@@ -370,6 +416,7 @@ Explore 13 social media automation templates for n8n covering Instagram, Twitter
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
 | AI agent for Instagram DM_inbox. Manychat + Open AI integration | Integrates Manychat with OpenAI to create an AI agent for managing Instagram direct messages. | Marketing/Customer Service/AI | [Link to Template](Instagram_Twitter_Social_Media/AI%20agent%20for%20Instagram%20DM_inbox.%20Manychat%20%2B%20Open%20AI%20integration.json) |
+| Publish one video natively to TikTok Instagram and YouTube with PostWire | Takes one idea and one video URL, writes a native caption per network (length, hashtags and format per platform) and publishes to every connected account in a single call. | Marketing/Social Media/AI | [Link to Template](Instagram_Twitter_Social_Media/Publish%20one%20video%20natively%20to%20TikTok%20Instagram%20and%20YouTube%20with%20PostWire.json) |
 | Create dynamic Twitter profile banner | Automates the creation of dynamic Twitter profile banners. | Marketing/Social Media | [Link to Template](Instagram_Twitter_Social_Media/Create%20dynamic%20Twitter%20profile%20banner.json) |
 | Generate Instagram Content from Top Trends with AI Image Generation | Creates Instagram content by analyzing top trends and generating relevant images using AI. | Marketing/AI/Content | [Link to Template](Instagram_Twitter_Social_Media/Generate%20Instagram%20Content%20from%20Top%20Trends%20with%20AI%20Image%20Generation.json) |
 | OpenAI-powered tweet generator | Generates tweets using OpenAI's language models. | Marketing/Social Media/AI | [Link to Template](Instagram_Twitter_Social_Media/OpenAI-powered%20tweet%20generator.json) |
@@ -384,17 +431,24 @@ Explore 13 social media automation templates for n8n covering Instagram, Twitter
 | Monitor X Search with Xquik | Searches X with Xquik, normalizes matching posts, and builds an email-ready social listening digest. | Marketing/Analytics | [Link to Template](Instagram_Twitter_Social_Media/Monitor%20X%20Search%20with%20Xquik.json) |
 | Grounded Article to Thread and LinkedIn Post | Turns a pasted article or transcript into a numbered X/Twitter thread and a LinkedIn post, with every fact grounded in the source text. Flags thin input for human review instead of padding filler. | Marketing/Content/AI | [Link to Template](Instagram_Twitter_Social_Media/Grounded%20Article%20to%20Thread%20and%20LinkedIn%20Post.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What other n8n integration templates are available?
 
-This section includes 38 additional n8n integration templates covering a wide range of platforms and use cases. Highlights include API schema extraction, Pennylane invoice automation, Pinterest analysis with AI, SIEM alert enrichment with MITRE ATT&CK, Bitrix24 chatbots, GitLab code review with ChatGPT, LINE assistant integration, Spotify playlist archiving, Zoom meeting AI assistants, Siri AI agents via Apple Shortcuts, and Todoist inbox organization.
+This section includes 45 additional n8n integration templates covering a wide range of platforms and use cases. Highlights include API schema extraction, Pennylane invoice automation, Pinterest analysis with AI, SIEM alert enrichment with MITRE ATT&CK, Bitrix24 chatbots, GitLab code review with ChatGPT, LINE assistant integration, Spotify playlist archiving, Zoom meeting AI assistants, Siri AI agents via Apple Shortcuts, and Todoist inbox organization.
 
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
+| Extract source-backed company website metadata with Apify | Validates one company domain, runs a cost-capped Apify Actor, and accepts exactly one website-metadata candidate result with provenance for human CRM review. | Sales/Ops | [Link to Template](Other_Integrations_and_Use_Cases/Extract%20source-backed%20company%20website%20metadata%20with%20Apify.json) |
+| Transcribe authorized PT-BR support calls with speaker labels using Apify | Requires an explicit rights-and-consent confirmation, transcribes one public HTTPS recording with diarization under a USD 0.05 run cap, and validates the source-tagged response for human support review. | Support/Ops | [Link to Template](Other_Integrations_and_Use_Cases/Transcribe%20authorized%20PT-BR%20support%20calls%20with%20speaker%20labels%20using%20Apify.json) |
 | Create and send Pennylane invoices from webhook data | Receives validated invoice data through an HTTP Basic Auth-protected webhook, finds or creates the customer in Pennylane, creates a finalized invoice, optionally emails it through Pennylane, and returns the result. | Finance/Ops | [Link to Template](Other_Integrations_and_Use_Cases/Create%20and%20send%20Pennylane%20invoices%20from%20webhook%20data.json) |
 | API Schema Extractor | Extracts API schemas from web services for documentation or integration purposes. | Development/Integration | [Link to Template](Other_Integrations_and_Use_Cases/API%20Schema%20Extractor.json) |
 | Synthetic Candidate Intake Reliability Harness | Runs six credential-free synthetic tests for candidate-intake deduplication, idempotency, partial-failure resume, invalid-input quarantine, and bounded 429 retry behavior. | HR/QA/Workflow Reliability | [Link to Template](Other_Integrations_and_Use_Cases/Synthetic%20Candidate%20Intake%20Reliability%20Harness.json) |
+| Resilient REST API Sync with Retries, Validation, and Sanitized Errors | Demonstrates a credential-free REST API sync with bounded retries, record normalization, schema validation, and sanitized failure output. | Engineering/Workflow Reliability | [Link to Template](Other_Integrations_and_Use_Cases/Resilient%20REST%20API%20Sync%20with%20Retries,%20Validation,%20and%20Sanitized%20Errors.json) |
+| Deterministic Exact-Match Quote Guard for AI and OCR Inputs | Validates untrusted extracted line items, accepts only exact synthetic catalog references, ignores claimed prices, and returns HTTP 422 with `NEEDS_REVIEW` and no total for caller-side handling. | Finance/QA/Workflow Reliability | [Link to Template](Other_Integrations_and_Use_Cases/Deterministic%20Exact-Match%20Quote%20Guard%20for%20AI%20and%20OCR%20Inputs.json) |
+| Signed Webhook HMAC Guard with Timestamp Window | Verifies HMAC-SHA256 against the exact raw JSON body, checks a signed timestamp window and event ID, and returns a generic 401 before any business logic runs. | Engineering/Security/Workflow Reliability | [Link to Template](Other_Integrations_and_Use_Cases/Signed%20Webhook%20HMAC%20Guard%20with%20Timestamp%20Window.json) |
 | Generate a Song via Webhook (Tunova / Suno API) | POST a prompt to a webhook and get back a finished Suno AI music track (audio URL) — a drop-in music-generation endpoint for your app. Core HTTP node; free API key at tunova.ai. | Engineering/Creative | [Link to Template](Other_Integrations_and_Use_Cases/Tunova%20-%20Generate%20a%20song%20via%20webhook.json) |
 | Analyze feedback and send a message on Mattermost | Analyzes user feedback and sends notifications to Mattermost channels. | Support/Communication | [Link to Template](Other_Integrations_and_Use_Cases/Analyze%20feedback%20and%20send%20a%20message%20on%20Mattermost.json) |
 | Analyze feedback using AWS Comprehend | Performs sentiment analysis on feedback using AWS Comprehend and sends results to Mattermost. | Support/AI | [Link to Template](Other_Integrations_and_Use_Cases/Analyze%20feedback%20using%20AWS%20Comprehend%20and%20send%20it%20to%20a%20Mattermost%20channel.json) |
@@ -430,8 +484,11 @@ This section includes 38 additional n8n integration templates covering a wide ra
 | ClientFlow Lite - Client Onboarding Automation | Client submits a form, receives a welcome email, and gets added to a Google Sheets pipeline automatically. Simple onboarding workflow. | Ops/Sales | [Link to Template](Other_Integrations_and_Use_Cases/ClientFlow%20Lite%20-%20Client%20Onboarding%20Automation.json) |
 | VoiceAgent Lite - Phone Call Logger | Logs phone calls from Vapi.ai or Bland.ai to Google Sheets via webhook. Captures caller info, duration, and transcript summary. | Ops/Support | [Link to Template](Other_Integrations_and_Use_Cases/VoiceAgent%20Lite%20-%20Phone%20Call%20Logger.json) |
 | Generate Seedance videos with Vancine API and bounded polling | Submits a Seedance video generation task, polls its asynchronous status, and handles completion, failure, and bounded timeout paths. | Engineering | [Link to Template](Other_Integrations_and_Use_Cases/Generate%20Seedance%20videos%20with%20Vancine%20API%20and%20bounded%20polling.json) |
-
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+| Issue a Verifiable Certificate (Attestify API) | POST recipient and course data to a free API and receive a permanent, tamper-evident public verify page (Ed25519-signed — change one character and verification fails). Core HTTP node; no API key, no signup. | Education/Ops | [Link to Template](Other_Integrations_and_Use_Cases/Issue%20a%20verifiable%20certificate%20(Attestify).json) |
+| Transport Request Intake Lite | Free n8n workflow for normalizing a simple transport request and validating required fields. | Ops/Sales | [Link to Template](Other_Integrations_and_Use_Cases/Transport_Request_Intake_Lite.json) |
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### How do I automate forms and surveys with n8n?
 
@@ -444,7 +501,9 @@ This section contains 4 form and survey automation templates for n8n. Conduct AI
 | Generate a Song from a Form (Tunova) | A hosted n8n Form collects a text prompt, then Tunova generates an original Suno AI song (v5.5) and returns the audio URL. Core HTTP node — runs on any n8n. Free API key at tunova.ai. | Marketing/Creative | [Link to Template](Forms_and_Surveys/Tunova%20-%20Generate%20a%20song%20from%20a%20form.json) |
 | Qualifying Appointment Requests with AI & n8n Forms | Uses AI to qualify and process appointment requests submitted through n8n Forms. | Sales/Support | [Link to Template](Forms_and_Surveys/Qualifying%20Appointment%20Requests%20with%20AI%20&%20n8n%20Forms.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What n8n templates exist for AI research, RAG, and data analysis?
 
@@ -496,7 +555,9 @@ Explore 39 AI research, RAG, and data analysis templates for n8n -- the largest 
 | 🔍 Perplexity Research to HTML: AI-Powered Content Creation | Transforms Perplexity AI research into HTML content for AI-powered content creation. | Content Creation, AI Research | [🔍 Perplexity Research to HTML_ AI-Powered Content Creation.txt](./AI_Research_RAG_and_Data_Analysis/%F0%9F%94%8D%20Perplexity%20Research%20to%20HTML_%20AI-Powered%20Content%20Creation.json) |
 | Live Web Research Agent with Superhighway | Search the live web, get AI-ready results (title, URL, snippet) using Superhighway's free search API. No browser required — pure HTTP. | Research | [Link to Template](AI_Research_RAG_and_Data_Analysis/Live%20Web%20Research%20Agent%20with%20Superhighway.json) |
 
-> 🚀 **Automate any workflow.** [Create your free n8n account and start building →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### Other
 
@@ -506,8 +567,10 @@ Explore 39 AI research, RAG, and data analysis templates for n8n -- the largest 
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-    <img src="https://img.shields.io/badge/Create_Free_n8n_Account-Start_Automating-orange?style=for-the-badge" alt="Create Free n8n Account" />
+    <img src="https://img.shields.io/badge/n8n_Cloud-Start_Trial-orange?style=for-the-badge" alt="Start an n8n Cloud trial" />
   </a>
+  <br />
+  <small>* Referral link — this project receives a commission on eligible purchases.</small>
 </p>
 
 ## FAQ
@@ -515,14 +578,18 @@ Explore 39 AI research, RAG, and data analysis templates for n8n -- the largest 
 ### How do I import an n8n template from this repository?
 
 Download the `.json` file for any template you want to use. Open your n8n instance (either self-hosted or on [n8n Cloud](https://n8n.partnerlinks.io/h1pwwf5m4toe)), navigate to Workflows, click "Import from File," and select the downloaded JSON file. The workflow will appear in your editor ready for configuration. You will need to add your own credentials for each connected service before activating the workflow.
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### What is n8n and why should I use it for automation?
 
-n8n is a free, open-source workflow automation platform with over 400 built-in integrations. Unlike SaaS alternatives like Zapier or Make, n8n can be self-hosted on your own infrastructure, giving you full control over your data. It features a visual drag-and-drop editor, native AI and LLM support, and an active community. You can [start using n8n for free](https://n8n.partnerlinks.io/h1pwwf5m4toe) on their cloud platform or deploy it on your own server.
+n8n is a fair-code, source-available workflow automation platform with hundreds of integrations. It can be self-hosted on your own infrastructure, giving you control over your data, and it includes a visual editor plus AI and LLM support. You can [start an n8n Cloud trial](https://n8n.partnerlinks.io/h1pwwf5m4toe) or deploy Community Edition on your own server.
+<br />
+<small>* Referral link — this project receives a commission on eligible purchases.</small>
 
 ### Are these templates free to use?
 
-Yes, all templates in this repository are completely free to download and use. They were collected from publicly available sources across the internet and are shared here for easy access. n8n itself is open-source and free to self-host. The n8n Cloud platform also offers a free tier with generous limits, so you can get started without any cost.
+Template files can be downloaded from this repository at no charge, but individual templates may be subject to their original authors’ license terms. n8n is fair-code and source-available; Community Edition can be self-hosted. n8n Cloud offers a trial followed by paid plans.
 
 ### Can I contribute my own templates?
 
@@ -546,7 +613,7 @@ Contributions are welcome. If you have an n8n workflow template to share, please
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=enescingoz/awesome-n8n-templates&type=Date)](https://star-history.com/#enescingoz/awesome-n8n-templates&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=enescingoz/awesome-n8n-templates&type=Date)](https://star-history.dera.page/#enescingoz/awesome-n8n-templates&Date)
 
 ---
 
@@ -566,16 +633,20 @@ Contributions are welcome. If you have an n8n workflow template to share, please
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-    <img src="https://img.shields.io/badge/Import_280+_Templates-Create_Free_n8n_Account-orange?style=for-the-badge" alt="Import Templates" />
+    <img src="https://img.shields.io/badge/n8n_Cloud-Start_Trial-orange?style=for-the-badge" alt="Start an n8n Cloud trial" />
   </a>
+  <br />
+  <small>* Referral link — this project receives a commission on eligible purchases.</small>
 </p>
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
     <img src="/img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
   </a>
+  <br />
+  <small>* Referral link — this project receives a commission on eligible purchases.</small>
 </p>
 
 ---
 
-*Last updated: March 2026*
+*Last updated: August 2026*
